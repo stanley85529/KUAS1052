@@ -1,4 +1,4 @@
-﻿1102105102 簡彰頡.txt
+1102105102 簡彰頡.txt
 1102105129 黃而旭.txt
 1102105301詹邵暐.txt
 1102105303 邱柏勳.txt https://github.com/gh26300/homework.git
@@ -50,3 +50,4 @@
 四子四丙 1102105355 葉晏菱.txt
 四子四丙 1102105357 高至寬.txt https://github.com/kuancla/Homework0317
 四子四乙1102105253楊子毅.txt
+四子四丙 1102105323 謝政達.txt  https://github.com/z86625794/homework
